@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/Sucharithachowdary/Ex_6_Personal-Information-of-Student/blob/main/j61.png)
 
 
 ## Result:
