@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity {
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/app_name" 
         android:supportsRtl="true"
         android:theme="@style/Theme.Ex6"
         tools:targetApi="31">
